@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACI,wBACJ,CAEA,SACI,qBAAsB,CACtB,cAAe,CACf,SACJ","file":"main.85cbab28.chunk.css","sourcesContent":["* {\r\n    background-color:burlywood;\r\n}\r\n\r\n.heading {\r\n    font-family: monospace;\r\n    font-size: 50px;\r\n    color: red;\r\n}"]}
