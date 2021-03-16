@@ -1,0 +1,9 @@
+* {
+    background-color:burlywood;
+}
+
+.heading {
+    font-family: monospace;
+    font-size: 50px;
+    color: red;
+}
