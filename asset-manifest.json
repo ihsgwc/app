@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ihsgwc.github.io/app/static/css/main.85cbab28.chunk.css",
-    "main.js": "/ihsgwc.github.io/app/static/js/main.4746ffd6.chunk.js",
-    "main.js.map": "/ihsgwc.github.io/app/static/js/main.4746ffd6.chunk.js.map",
-    "runtime-main.js": "/ihsgwc.github.io/app/static/js/runtime-main.40b4a18e.js",
-    "runtime-main.js.map": "/ihsgwc.github.io/app/static/js/runtime-main.40b4a18e.js.map",
-    "static/js/2.9c179b88.chunk.js": "/ihsgwc.github.io/app/static/js/2.9c179b88.chunk.js",
-    "static/js/2.9c179b88.chunk.js.map": "/ihsgwc.github.io/app/static/js/2.9c179b88.chunk.js.map",
-    "index.html": "/ihsgwc.github.io/app/index.html",
-    "static/css/main.85cbab28.chunk.css.map": "/ihsgwc.github.io/app/static/css/main.85cbab28.chunk.css.map",
-    "static/js/2.9c179b88.chunk.js.LICENSE.txt": "/ihsgwc.github.io/app/static/js/2.9c179b88.chunk.js.LICENSE.txt"
+    "main.css": "/app/static/css/main.85cbab28.chunk.css",
+    "main.js": "/app/static/js/main.4746ffd6.chunk.js",
+    "main.js.map": "/app/static/js/main.4746ffd6.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.a9963202.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.a9963202.js.map",
+    "static/js/2.9c179b88.chunk.js": "/app/static/js/2.9c179b88.chunk.js",
+    "static/js/2.9c179b88.chunk.js.map": "/app/static/js/2.9c179b88.chunk.js.map",
+    "index.html": "/app/index.html",
+    "static/css/main.85cbab28.chunk.css.map": "/app/static/css/main.85cbab28.chunk.css.map",
+    "static/js/2.9c179b88.chunk.js.LICENSE.txt": "/app/static/js/2.9c179b88.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40b4a18e.js",
+    "static/js/runtime-main.a9963202.js",
     "static/js/2.9c179b88.chunk.js",
     "static/css/main.85cbab28.chunk.css",
     "static/js/main.4746ffd6.chunk.js"
