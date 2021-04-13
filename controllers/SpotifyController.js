@@ -5,7 +5,7 @@
  var querystring = require('querystring');
  
  var client_id = 'a2ce416ddb79441f953e4ab99f55a362';
- var client_secret = '903b0a8a712a41c6838c4fbefb2ac839';
+ var client_secret = '';
  var redirect_uri = '/spotifycallback';
  var stateKey = 'spotify_auth_state';
  
